@@ -21,6 +21,7 @@ Thoughtful collaborations on research, analysis, or problem-driven projects.
 Prefer clarity over hype.
 
 ### Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=matlab,python,cpp,r,mysql" />
 </p>
