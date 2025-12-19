@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋  
+I’m **Suhas**
 
-<!--
-**S-U-H-A-S-2-1/S-U-H-A-S-2-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Current focus**  
+Working across finance, startups, and venture capital.
 
-Here are some ideas to get you started:
+📚 **Learning & sharpening**  
+Financial analysis, quantitative thinking, and first-principles reasoning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Areas of interest**  
+Startups, investment research, and thesis development.
+
+🤝 **Open to**  
+Thoughtful collaborations on research, analysis, or problem-driven projects.
+
+📫 **Reach me at**  
+- LinkedIn: https://www.linkedin.com/in/suhas-s-21fin/  
+- Email: suhasmys21@gmail.com
+
+⚡ **Note**  
+Prefer clarity over hype.
