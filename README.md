@@ -1,27 +1,76 @@
-## Hi there 👋  
-I’m **Suhas**
+# Hi there 👋
 
-📌 **Current focus**  
-Working across finance, startups, and venture capital.
+I'm **Suhas**
 
-📚 **Learning & sharpening**  
-Financial analysis, quantitative thinking, and first-principles reasoning.
+📌 **Current focus**
+Working at the intersection of **SpaceTech, Venture Capital, and Finance**, with a focus on investment research, business strategy, and commercial space technologies.
 
-🔍 **Areas of interest**  
-Startups, investment research, and thesis development.
+📚 **Learning & sharpening**
 
-🤝 **Open to**  
-Thoughtful collaborations on research, analysis, or problem-driven projects.
+* Financial analysis & valuation
+* First-principles reasoning
+* Space economy & satellite technologies
+* Quantitative thinking
 
-📫 **Reach me at**  
-- LinkedIn: https://www.linkedin.com/in/suhas-s-21fin/  
-- Email: suhasmys21@gmail.com
+🔍 **Areas of interest**
 
-⚡ **Note**  
+* SpaceTech
+* Venture Capital
+* Investment Research
+* Startup Strategy
+* Financial Modelling
+* Market Research
+* Deep-Tech
+
+🤝 **Open to**
+Thoughtful collaborations on:
+
+* Investment research
+* Startup analysis
+* SpaceTech research
+* Financial modelling
+* Thesis development
+
+📫 **Reach me at**
+
+* LinkedIn: https://www.linkedin.com/in/suhas-s-21fin/
+* Email: [suhasmys21@gmail.com](mailto:suhasmys21@gmail.com)
+
+⚡ **Note**
 Prefer clarity over hype.
 
-### Languages and Tools:
-### Languages and Tools:
+## Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=matlab,python,cpp,r,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,r,mysql" />
 </p>
+
+### Finance & Business
+
+* Financial Modelling
+* Valuation
+* Venture Capital
+* Investment Research
+* Market Research
+* Business Strategy
+* Grant Writing
+* Competitive Analysis
+
+### Data & Analytics
+
+* Python
+* MATLAB
+* C++
+* R
+* MySQL
+* Power BI
+* Microsoft Excel
+
+### Domains
+
+* SpaceTech
+* Earth Observation
+* GNSS
+* Satellite Communications
+* SAR
+* AI & Robotics
